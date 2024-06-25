@@ -7,6 +7,6 @@
 - 🌟 About Me: I'm a dog lover, horseback rider, adventure seeker, and passionate about nature and traveling. I enjoy various sports and have a special love for swimming!
 
 <!---
-BME2023/BME2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
